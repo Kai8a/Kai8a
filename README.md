@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Kai8a
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django, Java Script, Python, HTML and CSS
-- 📫 How to reach me kaihasse8@gmail.com
+My name is Kai, Your average Python, JavaScript, HTML and CSS enthusiast. Web Developer in training.
 
 <!---
 Kai8a/Kai8a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
