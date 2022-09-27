@@ -1,4 +1,4 @@
-My name is Kai, Your average Python, JavaScript, HTML and CSS enthusiast. Web Developer in training.
+My name is Kai, Your average Python enthusiast. Web Developer in training.
 
 <!---
 Kai8a/Kai8a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
